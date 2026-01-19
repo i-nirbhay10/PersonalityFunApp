@@ -11,7 +11,22 @@ export const questions = [
   },
   {
     id: 3,
-    text: 'Free evening means...',
+    text: 'A free evening means...',
     options: ['Rest alone', 'Meet people'],
+  },
+  {
+    id: 4,
+    text: 'You are given a challenging project.',
+    options: ['Plan carefully', 'Dive right in'],
+  },
+  {
+    id: 5,
+    text: 'At a social gathering, you usually...',
+    options: ['Observe quietly', 'Engage with everyone'],
+  },
+  {
+    id: 6,
+    text: 'You prefer working on tasks that are...',
+    options: ['Structured', 'Creative'],
   },
 ];
